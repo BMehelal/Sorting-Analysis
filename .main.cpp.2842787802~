@@ -1,0 +1,23 @@
+#include "hana.h"
+#include "brandon.h"
+#include "brian.h"
+
+// EVERYONE CREATES THEIR OWN CPP FILE AND WRITE THEIR SORTING ALGOS 
+// THEN WE'LL LINK THE OUR INDIVIDUAL FILES IN THIS MAIN FILE 
+
+using namespace std;
+using namespace std::chrono;
+
+int inputDataSize();
+int counter = 0;
+
+int main() {
+  std::cout << "Hello World!\n";
+}
+
+int inputDataSize(){
+  switch(counter){
+    case(1):
+    re
+  }
+}
